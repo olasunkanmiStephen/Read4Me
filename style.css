@@ -56,11 +56,18 @@ textarea::placeholder{
     width: 80%;
 }
 
+.btn{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
 button{
     background: #ff2963;
     color: #fff;
     font-size: 16px;
-    padding: 10px 30px;
+    padding: 15px 30px 12px 50px;
+    padding-top: 9px;
     border: 0;
     outline: 0;
     cursor: pointer;
